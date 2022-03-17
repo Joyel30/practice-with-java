@@ -1,0 +1,55 @@
+int a = sc.nextInt ();
+import java.util.Scanner;
+class Main
+{
+
+  public static void main (String args[])
+  {
+    // String msg= greet();
+    // System.out.println(msg);
+  
+/*
+    Scanner sc = new Scanner (System.in);
+
+
+     switch(N) 
+     {
+  case 1:
+    System.out.println("hi");
+    break;
+  case 2:
+    System.out.println("hello");
+    break;
+  default:
+    System.out.println("enter the valid student no ");
+}
+    
+      if(a<b&&a<c){
+      System.out.println("a is min");    
+      }
+      else if
+      (b<a&&b<c)
+      {
+          System.out.println("b is min");
+      }
+      else if (c<a&&c<b)
+      {
+          System.out.println("c is min");
+         }
+      else 
+      System.out.println("undefined");
+      
+  
+  static String greet(){
+      String greet = "hi how are you";
+      return greet;
+      //swap two Number
+      int a=40;
+      int b= 50;
+     int temp=a;
+      a=b;
+      b=temp;
+      System.out.println(a+" "+b);*/
+  }
+  
+}
